@@ -1,2 +1,4 @@
 digite seu nome
 insira seu email
+digite sua idade
+digite sua cidade
